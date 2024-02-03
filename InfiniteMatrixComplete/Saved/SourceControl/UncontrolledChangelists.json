@@ -10,7 +10,12 @@
 				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/WB_Score.uasset",
 				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
-				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/WB_HealthPack.uasset"
+				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/WB_HealthPack.uasset",
+				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_HealthPack2.uasset",
+				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_HealthPack1.uasset",
+				"C:/Users/arulhv2/Documents/415_MP1/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset"
 			]
 		}
 	]
